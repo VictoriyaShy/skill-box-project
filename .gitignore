@@ -1,0 +1,6 @@
+.DS_Store
+# images/
+*.log
+*.code-workspace
+# fonts/
+*.vscode
